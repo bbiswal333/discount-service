@@ -1,1 +1,1 @@
-# discount-service
+# promo-code-service
